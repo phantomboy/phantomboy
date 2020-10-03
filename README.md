@@ -7,11 +7,12 @@ Currently serving as a Solution Architect focusing on Cloud/DevOp/Agile transfor
 🌱 I’m currently trying to become a Microsoft Certified Trainer! 
 
 ## Certifications :
-- Azure Solutions Architect Expert (H430-5732)
-- DevOps Engineer Expert (H448-4853)
-- Azure Administrator Associate (H433-9331)
-- Azure Fundamentals (H419-0622)
-- Power Platform Fundamentals (H442-8938)
+- Microsoft Certified Trainer 2020-2021
+- Azure Solutions Architect Expert
+- DevOps Engineer Expert
+- Azure Administrator Associate
+- Azure Fundamentals
+- Power Platform Fundamentals
 - Microsoft Services Adoption Specialist
 - Azure Sales Training 
 - AWS Certified Cloud Practitioner
