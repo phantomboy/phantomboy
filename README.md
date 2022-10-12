@@ -2,9 +2,9 @@
 ### Solution Architect
 
 ## Profile :
-Currently serving as a Solution Architect focusing on Cloud/DevOps/Agile transformations. I assist businesses and DevOps teams to transform an idea into a PaaS or SaaS solution using fit-to-purpose tools of the cloud native landscape. As a coach and mentor of people I lead multiple teams during migrations from waterfall to agile or from on premises to a cloud landscape. I upscale teams to work with an agile mindset with a lead by example attitude. Using multiple information streams and my vast network I help building partnerships within the opensource and cloud-native landscape.
+Solution Architect with a passion for cloud native financial services!
 
-🌱 I’m currently exploring workplace analytics
+🌱 I’m currently exploring greenfield cloud native bank!
 
 ## Certifications :
 - Microsoft Certified: Azure IoT Developer Specialty
