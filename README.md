@@ -4,7 +4,7 @@
 ## Profile :
 Solution Architect with a passion for cloud native financial services!
 
-🌱 I’m currently exploring greenfield cloud native bank!
+🌱 I’m currently mastering the art of delivering a cloud native bank!
 
 ## Certifications :
 - Microsoft Certified: Azure IoT Developer Specialty
