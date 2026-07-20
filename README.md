@@ -1,8 +1,8 @@
 ## Chris Manadis
-### Solution Architect
+### Senior Solutions Architect
 
 ## Profile :
-Solution Architect with a passion for cloud native financial services!
+Senior Solutions Architect with a passion for cloud native financial services!
 
 🌱 I’m currently mastering the art of delivering a cloud native bank!
 
